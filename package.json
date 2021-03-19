@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "core-js": "^3.4.8",
     "immutable": "^4.0.0-rc.12",
     "react": "^16.8.6",
